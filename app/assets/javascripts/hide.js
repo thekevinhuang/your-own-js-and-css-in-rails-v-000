@@ -4,8 +4,6 @@ function hideWhenClicked() {
   ele.addEventListener('click', function(event){
     ele.style.display = "none"
   })
-  
-  
+
+
 }
-
-
